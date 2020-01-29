@@ -2,7 +2,7 @@
 
 
 This repository contains code and content for a website for one of the courses
-that I teach.
+that I teach.  
 
 
 ## Contributions
